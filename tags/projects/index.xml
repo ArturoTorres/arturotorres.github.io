@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jairo Arturo Torres-Matallana</title>
+    <link>/tags/projects/</link>
+    <description>Recent content in Projects on Jairo Arturo Torres-Matallana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Temporal Uncertainty Propagation Analysis</title>
+      <link>/project/wur_phd/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/wur_phd/</guid>
+      <description>A Global Priority     Sustainable urban water management (SUWM) is becoming a global priority due to the impact of urbanisation on natural and urban ecosystems. The global population in 2018 was equivalent to 55 per cent of the world’s population residing in urban areas. By 2050, the global population will reach 9.7 billion, with 68 per cent of the world’s population (i.e., 6.6 billion people) projected to be urban (Fig.</description>
+    </item>
+    
+    <item>
+      <title>EOTSA</title>
+      <link>/project/list_eotsa/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/list_eotsa/</guid>
+      <description>Remote Sensing and Earth Observation     With the co-development of 52° North (Germany), the Luxembourg Institute of Science and Technology (LIST) developed the toolbox for the European Space Agency (ESA) according to the needs of the NDVI time series analysis community.
+The focus of this project was the implementation of a time series analysis toolbox for remote sensing imagery, specifically for Proba-V data, in R. The mission exploitation platform (MEP) at VITO (Flemish Institute for Technological Research NV, Belgium) derives the data from their Proba-V satellite.</description>
+    </item>
+    
+  </channel>
+</rss>
