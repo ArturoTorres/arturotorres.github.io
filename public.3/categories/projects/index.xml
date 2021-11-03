@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jairo Arturo Torres-Matallana</title>
+    <link>/categories/projects/</link>
+    <description>Recent content in Projects on Jairo Arturo Torres-Matallana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EOTSA</title>
+      <link>/project/list_eotsa/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/list_eotsa/</guid>
+      <description>Remote Sensing and Earth Observation     With the co-development of 52° North (Germany), the Luxembourg Institute of Science and Technology (LIST) developed the toolbox for the European Space Agency (ESA) according to the needs of the NDVI time series analysis community.
+The focus of this project was the implementation of a time series analysis toolbox for remote sensing imagery, specifically for Proba-V data, in R. The mission exploitation platform (MEP) at VITO (Flemish Institute for Technological Research NV, Belgium) derives the data from their Proba-V satellite.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peer-reviewed Journal Publications on Jairo Arturo Torres-Matallana</title>
+    <link>/publication/</link>
+    <description>Recent content in Peer-reviewed Journal Publications on Jairo Arturo Torres-Matallana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Feb 2021 12:00:00 +0000</lastBuildDate><atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implications of model uncertainty for investment decisions to manage intermittent sewer overflows</title>
+      <link>/publication/p20210203_wr/</link>
+      <pubDate>Wed, 03 Feb 2021 12:00:00 +0000</pubDate>
+      
+      <guid>/publication/p20210203_wr/</guid>
+      <description>Abstract     Uncertainty in urban drainage modelling studies presents challenges to decision makers with limited investment resources attempting to achieve regulatory compliance for intermittent discharges from Combined Sewer Overflows. This paper presents the development of a new decision-making approach to address two key challenges encountered when attempting to manage sewer overflows, these are (i) the implications of different risk preferences of individuals for investment decisions; and (ii) how to utilize information on uncertainties in system performance predictions due to input or parameter uncertainty while comparing decision alternatives.</description>
+    </item>
+    
+    <item>
+      <title>Multivariate autoregressive modelling and conditional simulation for temporal uncertainty analysis of an urban watersystem in Luxembourg</title>
+      <link>/publication/p20210113_hess/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/p20210113_hess/</guid>
+      <description>Abstract     Uncertainty is often ignored in urban water systems modelling. Commercial software used in engineering practice often ignores the uncertainties of input variables and their propagation because of a lack of user-friendly implementations. This can have serious consequences, such as the wrong dimensioning of urban drainage systems (UDSs) and the inaccurate estimation of pollution released to the environment. This paper introduces an uncertainty analysis in urban drainage modelling, built on existing methods and applied to a case study in the Haute-Sûre catchment in Luxembourg.</description>
+    </item>
+    
+    <item>
+      <title>A Data-Driven Surrogate Modelling Approach for Acceleration of Short-Term Simulations of a Dynamic Urban Drainage Simulator</title>
+      <link>/publication/p20181213_water_surrogate/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/p20181213_water_surrogate/</guid>
+      <description>Abstract     In this study, applicability of a data-driven Gaussian Process Emulator (GPE) technique to develop a dynamic surrogate model for a computationally expensive urban drainage simulator is investigated. Considering rainfall time series as the main driving force is a challenge in this regard due to the high dimensionality problem. However, this problem can be less relevant when the focus is only on short-term simulations. The novelty of this research is the consideration of short-term rainfall time series as training parameters for the GPE.</description>
+    </item>
+    
+    <item>
+      <title>stUPscales, an R-Package for Spatio-Temporal Uncertainty Propagation across Multiple Scales with Examples in Urban Water Modelling</title>
+      <link>/publication/p20180623_water_stupscales/</link>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/p20180623_water_stupscales/</guid>
+      <description>Abstract     Integrated environmental modelling requires coupling sub-models at different spatial and temporal scales, thus accounting for change of support procedures (aggregation and disaggregation). We introduce the R-package spatio-temporal Uncertainty Propagation across multiple scales, stUPscales, which constitutes a contribution to state-of-the-art open source tools that support uncertainty propagation analysis in temporal and spatio-temporal domains. We illustrate the tool with an uncertainty propagation example in environmental modelling, specifically in the urban water domain.</description>
+    </item>
+    
+    <item>
+      <title>EmiStatR, a Simplified and Scalable Urban Water Quality Model for Simulation of Combined Sewer Overflows</title>
+      <link>/publication/p20180613_water_emistatr/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/p20180613_water_emistatr/</guid>
+      <description>Abstract     Many complex urban drainage quality models are computationally expensive. Complexity and computing times may become prohibitive when these models are used in a Monte Carlo (MC) uncertainty analysis of long time series, in particular for practitioners. Computationally scalable and fast “surrogate” models may reduce the overall computation time for practical applications in which often large data sets would be needed otherwise. We developed a simplified semi-distributed urban water quality model, EmiStatR, which brings uncertainty and sensitivity analyses of urban drainage water quality models within reach of practitioners.</description>
+    </item>
+    
+    <item>
+      <title>Multivariate autoregressive modelling and conditional simulation of precipitation time series for urban water models</title>
+      <link>/publication/p2017_ewra/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/p2017_ewra/</guid>
+      <description>Abstract     Precipitation is the most active flux and major input of hydrological systems. Precipitation controls hydrological states (soil moisture and groundwater level), and fluxes (runoff, evapotranspiration and groundwater recharge). Hence, precipitation plays a paramount role in urban water systems. It controls the fluxes towards combined sewer tanks and the dilution of chemical and organic compounds in the wastewater. Furthermore, small catchments (i.e., areas of about 20 ha) have a fast response to precipitation.</description>
+    </item>
+    
+  </channel>
+</rss>
