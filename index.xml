@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jairo Arturo Torres-Matallana</title>
+    <link>/</link>
+    <description>Recent content on Jairo Arturo Torres-Matallana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Aug 2021 15:15:41 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implications of model uncertainty for investment decisions to manage intermittent sewer overflows</title>
+      <link>/publication/p20210203_wr/</link>
+      <pubDate>Wed, 03 Feb 2021 12:00:00 +0000</pubDate>
+      
+      <guid>/publication/p20210203_wr/</guid>
+      <description>Abstract     Uncertainty in urban drainage modelling studies presents challenges to decision makers with limited investment resources attempting to achieve regulatory compliance for intermittent discharges from Combined Sewer Overflows. This paper presents the development of a new decision-making approach to address two key challenges encountered when attempting to manage sewer overflows, these are (i) the implications of different risk preferences of individuals for investment decisions; and (ii) how to utilize information on uncertainties in system performance predictions due to input or parameter uncertainty while comparing decision alternatives.</description>
+    </item>
+    
+    <item>
+      <title>Multivariate autoregressive modelling and conditional simulation for temporal uncertainty analysis of an urban watersystem in Luxembourg</title>
+      <link>/publication/p20210113_hess/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/p20210113_hess/</guid>
+      <description>Abstract     Uncertainty is often ignored in urban water systems modelling. Commercial software used in engineering practice often ignores the uncertainties of input variables and their propagation because of a lack of user-friendly implementations. This can have serious consequences, such as the wrong dimensioning of urban drainage systems (UDSs) and the inaccurate estimation of pollution released to the environment. This paper introduces an uncertainty analysis in urban drainage modelling, built on existing methods and applied to a case study in the Haute-Sûre catchment in Luxembourg.</description>
+    </item>
+    
+    <item>
+      <title>A Data-Driven Surrogate Modelling Approach for Acceleration of Short-Term Simulations of a Dynamic Urban Drainage Simulator</title>
+      <link>/publication/p20181213_water_surrogate/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/p20181213_water_surrogate/</guid>
+      <description>Abstract     In this study, applicability of a data-driven Gaussian Process Emulator (GPE) technique to develop a dynamic surrogate model for a computationally expensive urban drainage simulator is investigated. Considering rainfall time series as the main driving force is a challenge in this regard due to the high dimensionality problem. However, this problem can be less relevant when the focus is only on short-term simulations. The novelty of this research is the consideration of short-term rainfall time series as training parameters for the GPE.</description>
+    </item>
+    
+    <item>
+      <title>stUPscales, an R-Package for Spatio-Temporal Uncertainty Propagation across Multiple Scales with Examples in Urban Water Modelling</title>
+      <link>/publication/p20180623_water_stupscales/</link>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/p20180623_water_stupscales/</guid>
+      <description>Abstract     Integrated environmental modelling requires coupling sub-models at different spatial and temporal scales, thus accounting for change of support procedures (aggregation and disaggregation). We introduce the R-package spatio-temporal Uncertainty Propagation across multiple scales, stUPscales, which constitutes a contribution to state-of-the-art open source tools that support uncertainty propagation analysis in temporal and spatio-temporal domains. We illustrate the tool with an uncertainty propagation example in environmental modelling, specifically in the urban water domain.</description>
+    </item>
+    
+    <item>
+      <title>EmiStatR, a Simplified and Scalable Urban Water Quality Model for Simulation of Combined Sewer Overflows</title>
+      <link>/publication/p20180613_water_emistatr/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/p20180613_water_emistatr/</guid>
+      <description>Abstract     Many complex urban drainage quality models are computationally expensive. Complexity and computing times may become prohibitive when these models are used in a Monte Carlo (MC) uncertainty analysis of long time series, in particular for practitioners. Computationally scalable and fast “surrogate” models may reduce the overall computation time for practical applications in which often large data sets would be needed otherwise. We developed a simplified semi-distributed urban water quality model, EmiStatR, which brings uncertainty and sensitivity analyses of urban drainage water quality models within reach of practitioners.</description>
+    </item>
+    
+    <item>
+      <title>Multivariate autoregressive modelling and conditional simulation of precipitation time series for urban water models</title>
+      <link>/publication/p2017_ewra/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/p2017_ewra/</guid>
+      <description>Abstract     Precipitation is the most active flux and major input of hydrological systems. Precipitation controls hydrological states (soil moisture and groundwater level), and fluxes (runoff, evapotranspiration and groundwater recharge). Hence, precipitation plays a paramount role in urban water systems. It controls the fluxes towards combined sewer tanks and the dilution of chemical and organic compounds in the wastewater. Furthermore, small catchments (i.e., areas of about 20 ha) have a fast response to precipitation.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Wed, 11 Aug 2021 15:15:41 -0600</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
+Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
+    </item>
+    
+    <item>
+      <title>CHAPEL</title>
+      <link>/project/list_chapel/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/list_chapel/</guid>
+      <description>CHAPEL has the ambition to provide climate information at impact-relevant spatial and temporal scales for Luxembourg and the Greater Region based on current scientific knowledge.      Innovation     Researchers of the Environmental Research and Innovation (ERIN) department at the Luxembourg Institute of Science of Technology (LIST) will perform long-term climate simulations of past and future conditions at spatial resolutions that allows physical processes (e.</description>
+    </item>
+    
+    <item>
+      <title>Temporal Uncertainty Propagation Analysis</title>
+      <link>/project/wur_phd/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/wur_phd/</guid>
+      <description>A Global Priority     Sustainable urban water management (SUWM) is becoming a global priority due to the impact of urbanisation on natural and urban ecosystems. The global population in 2018 was equivalent to 55 per cent of the world’s population residing in urban areas. By 2050, the global population will reach 9.7 billion, with 68 per cent of the world’s population (i.e., 6.6 billion people) projected to be urban (Fig.</description>
+    </item>
+    
+    <item>
+      <title>Geostatistical simulation of space-time stochastic rainfall fields for uncertainty propagation in rainfall-runoff and urban drainage system modelling</title>
+      <link>/talk/2019_spa_stat/</link>
+      <pubDate>Fri, 12 Jul 2019 11:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019_spa_stat/</guid>
+      <description>Towards Spatial Data Science   Since 2011, Professor Alfred Stein and colleagues - in collaboration with Elsevier - have been organizing this series of Spatial Statistics conferences every 2 years. The 5th Spatial Statistics conference is held in Sitges, Spain. The conference focus: Towards Spatial Data Science. Covering a wide conference themes:
+  Space-time statistics, e.g. geostatistics, point patterns, estimation methods, large dimensions New spatial data sources, e.g. social media, Google, citizen science, crowd source maps Stochastic geometry, tesselation, point processes, random sets Causal statistical modeling Trajectory/movement modeling Predictive modelling Spatial data quality and uncertainty   Space-Time Stochastic Rainfall Fields for Uncertainty Propagation   On 12 July, I gave a talk on application of space-time stocastic rainfall fields and downscalingfor uncertainty propagation.</description>
+    </item>
+    
+    <item>
+      <title>Clim4Vitis</title>
+      <link>/project/list_clim4vitis/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/list_clim4vitis/</guid>
+      <description>Clim4Vitis is a three-year Horizon 2020 project funded by the European Union Research and Innovation programme.      A Consortium for Viticulture in Europe     The Clim4Vitis project (Climate change impact mitigation for European viticulture: knowledge transfer for an integrated approach) is specifically focused on the topic of climate change and its potential impacts on European viticulture, giving particular attention to two main lines of research:</description>
+    </item>
+    
+    <item>
+      <title>EOTSA</title>
+      <link>/project/list_eotsa/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/list_eotsa/</guid>
+      <description>Remote Sensing and Earth Observation     With the co-development of 52° North (Germany), the Luxembourg Institute of Science and Technology (LIST) developed the toolbox for the European Space Agency (ESA) according to the needs of the NDVI time series analysis community.
+The focus of this project was the implementation of a time series analysis toolbox for remote sensing imagery, specifically for Proba-V data, in R. The mission exploitation platform (MEP) at VITO (Flemish Institute for Technological Research NV, Belgium) derives the data from their Proba-V satellite.</description>
+    </item>
+    
+    <item>
+      <title>Merging and calibration of radar rain products for quantification of input uncertainty in urban drainage modelling for the Haute-Sûre catchment in Luxembourg</title>
+      <link>/talk/2017_enviroinfo/</link>
+      <pubDate>Fri, 15 Sep 2017 14:00:00 +0000</pubDate>
+      
+      <guid>/talk/2017_enviroinfo/</guid>
+      <description>From Science to Society: The Bridge Provided by Environmental Informatics   The 31st International Conference on Environmental Informatics, EnviroInfo, is held in Luxembourg, hosted by the Luxembourg Institute of Science and Technology (LIST). The conference focus: From Science to Society. The themes:
+  Applications of Geographical Information Systems and Disaster Management. Environmental Modelling and Simulation. Energy Informatics and Environmental Informatics. Software Tools and Environmental Databases. Energy Aware Software-Engineering and Development.</description>
+    </item>
+    
+    <item>
+      <title>Towards an uncertainty propagation framework in urban drainage system modelling</title>
+      <link>/talk/2015_udm/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2015_udm/</guid>
+      <description>Most urban drainage models do not pay attention to uncertainty propagation. In particular, commercial software packages as used in engineering practice typically ignore uncertainties due to lack of user-friendly software implementations and tools. However, uncertainties can be substantial and ignoring these may affect decision making. In particular, end users should be aware of uncertainties so that they can take more robust decisions. Thus, research into uncertainty propagation in urban drainage modelling and development of operational systems that can trace the propagation of uncertainties is needed.</description>
+    </item>
+    
+    <item>
+      <title>QUICS</title>
+      <link>/project/quics/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/project/quics/</guid>
+      <description>QUICS was an EU funded FP7 Marie Curie Initial Training Network (ITN) which ran for 4 years, starting in 2014.      The Ph.D. journey started     Since January 2015 I began my Ph.D. research and made part of the QUICS project. The overall aim of QUICS was to provide high-level training and to research the further implementation of the Water Framework Directive (WFD), improving water quality management by assessing the uncertainty of integrated catchment model water quality predictions.</description>
+    </item>
+    
+    <item>
+      <title>Contributors</title>
+      <link>/contributors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contributors/</guid>
+      <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
+   Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
+   Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
+   Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot 🦔)</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/license/</guid>
+      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

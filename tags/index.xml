@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jairo Arturo Torres-Matallana</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Jairo Arturo Torres-Matallana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>arturo-site</title>
+      <link>/tags/arturo-site/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/arturo-site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/tags/projects/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/tags/publications/</link>
+      <pubDate>Wed, 03 Feb 2021 12:00:00 +0000</pubDate>
+      
+      <guid>/tags/publications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

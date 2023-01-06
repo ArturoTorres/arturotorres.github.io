@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Portfolio on Jairo Arturo Torres-Matallana</title>
+    <link>/project/</link>
+    <description>Recent content in Project Portfolio on Jairo Arturo Torres-Matallana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CHAPEL</title>
+      <link>/project/list_chapel/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/list_chapel/</guid>
+      <description>CHAPEL has the ambition to provide climate information at impact-relevant spatial and temporal scales for Luxembourg and the Greater Region based on current scientific knowledge.      Innovation     Researchers of the Environmental Research and Innovation (ERIN) department at the Luxembourg Institute of Science of Technology (LIST) will perform long-term climate simulations of past and future conditions at spatial resolutions that allows physical processes (e.</description>
+    </item>
+    
+    <item>
+      <title>Temporal Uncertainty Propagation Analysis</title>
+      <link>/project/wur_phd/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/wur_phd/</guid>
+      <description>A Global Priority     Sustainable urban water management (SUWM) is becoming a global priority due to the impact of urbanisation on natural and urban ecosystems. The global population in 2018 was equivalent to 55 per cent of the world’s population residing in urban areas. By 2050, the global population will reach 9.7 billion, with 68 per cent of the world’s population (i.e., 6.6 billion people) projected to be urban (Fig.</description>
+    </item>
+    
+    <item>
+      <title>Clim4Vitis</title>
+      <link>/project/list_clim4vitis/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/list_clim4vitis/</guid>
+      <description>Clim4Vitis is a three-year Horizon 2020 project funded by the European Union Research and Innovation programme.      A Consortium for Viticulture in Europe     The Clim4Vitis project (Climate change impact mitigation for European viticulture: knowledge transfer for an integrated approach) is specifically focused on the topic of climate change and its potential impacts on European viticulture, giving particular attention to two main lines of research:</description>
+    </item>
+    
+    <item>
+      <title>EOTSA</title>
+      <link>/project/list_eotsa/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/list_eotsa/</guid>
+      <description>Remote Sensing and Earth Observation     With the co-development of 52° North (Germany), the Luxembourg Institute of Science and Technology (LIST) developed the toolbox for the European Space Agency (ESA) according to the needs of the NDVI time series analysis community.
+The focus of this project was the implementation of a time series analysis toolbox for remote sensing imagery, specifically for Proba-V data, in R. The mission exploitation platform (MEP) at VITO (Flemish Institute for Technological Research NV, Belgium) derives the data from their Proba-V satellite.</description>
+    </item>
+    
+    <item>
+      <title>QUICS</title>
+      <link>/project/quics/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/project/quics/</guid>
+      <description>QUICS was an EU funded FP7 Marie Curie Initial Training Network (ITN) which ran for 4 years, starting in 2014.      The Ph.D. journey started     Since January 2015 I began my Ph.D. research and made part of the QUICS project. The overall aim of QUICS was to provide high-level training and to research the further implementation of the Water Framework Directive (WFD), improving water quality management by assessing the uncertainty of integrated catchment model water quality predictions.</description>
+    </item>
+    
+  </channel>
+</rss>

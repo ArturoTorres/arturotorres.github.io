@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Jairo Arturo Torres-Matallana</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on Jairo Arturo Torres-Matallana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EOTSA</title>
+      <link>/project/list_eotsa/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/list_eotsa/</guid>
+      <description>Remote Sensing and Earth Observation     With the co-development of 52° North (Germany), the Luxembourg Institute of Science and Technology (LIST) developed the toolbox for the European Space Agency (ESA) according to the needs of the NDVI time series analysis community.
+The focus of this project was the implementation of a time series analysis toolbox for remote sensing imagery, specifically for Proba-V data, in R. The mission exploitation platform (MEP) at VITO (Flemish Institute for Technological Research NV, Belgium) derives the data from their Proba-V satellite.</description>
+    </item>
+    
+    <item>
+      <title>QUICS</title>
+      <link>/project/quics/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/project/quics/</guid>
+      <description>QUICS was an EU funded FP7 Marie Curie Initial Training Network (ITN) which ran for 4 years, starting in 2014.      The Ph.D. journey started     Since January 2015 I began my Ph.D. research and made part of the QUICS project. The overall aim of QUICS was to provide high-level training and to research the further implementation of the Water Framework Directive (WFD), improving water quality management by assessing the uncertainty of integrated catchment model water quality predictions.</description>
+    </item>
+    
+  </channel>
+</rss>
