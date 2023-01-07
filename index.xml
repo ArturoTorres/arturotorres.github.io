@@ -6,7 +6,7 @@
     <description>Recent content on Arturo Torres</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Aug 2021 15:15:41 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Implications of model uncertainty for investment decisions to manage intermittent sewer overflows</title>
       <link>/publication/p20210203_wr/</link>
@@ -59,6 +59,15 @@
       
       <guid>/publication/p2017_ewra/</guid>
       <description>Abstract     Precipitation is the most active flux and major input of hydrological systems. Precipitation controls hydrological states (soil moisture and groundwater level), and fluxes (runoff, evapotranspiration and groundwater recharge). Hence, precipitation plays a paramount role in urban water systems. It controls the fluxes towards combined sewer tanks and the dilution of chemical and organic compounds in the wastewater. Furthermore, small catchments (i.e., areas of about 20 ha) have a fast response to precipitation.</description>
+    </item>
+    
+    <item>
+      <title>Arturo&#39;s CV</title>
+      <link>/cv/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -147,15 +156,15 @@ The focus of this project was the implementation of a time series analysis toolb
     </item>
     
     <item>
-      <title>Contributors</title>
+      <title>Layout Contributors</title>
       <link>/contributors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contributors/</guid>
-      <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
-   Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
-   Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
-   Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot 🦔)</description>
+      <description>Thank you to all who have contributed both technical and creative skills to this portfolio:
+   Yihui Xie  (for the blogdown package)
+  Eric Anderson and the team at Formspree for developing a Hugo theme: https://github.com/formspree/blogophonic-hugo
+  </description>
     </item>
     
     <item>
