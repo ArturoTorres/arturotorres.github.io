@@ -6,7 +6,34 @@
     <description>Recent content in arturo-site on Arturo Torres</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/arturo-site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 12:00:00 +0000</lastBuildDate><atom:link href="/tags/arturo-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calibration for an Ensemble of Grapevine Phenology Models under Different Optimization Algorithms</title>
+      <link>/publication/p20230226_agronomy/</link>
+      <pubDate>Sun, 26 Feb 2023 12:00:00 +0000</pubDate>
+      
+      <guid>/publication/p20230226_agronomy/</guid>
+      <description>Abstract     Vine phenology modelling is increasingly important for winegrowers and viticulturists. Model calibration is often required before practical applications. However, when multiple models and optimization methods are applied for different varieties, it is rarely known which factor tends to mostly affect the calibration results. We mainly aim to investigate the main source of the variability in the modelling errors for the flowering timings of two important varieties of vine in the Douro Demarcated Region (DDR) of Portugal; this is based on five phenology model simulations that use optimal parameters and that are estimated by three optimization algorithms (MLE, SA and SCEUA).</description>
+    </item>
+    
+    <item>
+      <title>An expanded framing of ecosystem services is needed for a sustainable urban future</title>
+      <link>/publication/p20220414_rser/</link>
+      <pubDate>Thu, 14 Apr 2022 12:00:00 +0000</pubDate>
+      
+      <guid>/publication/p20220414_rser/</guid>
+      <description>Abstract     Urban activities are an important driver of ecosystem services decline. Sustainable urbanisation necessitates anticipating and mitigating these negative socio-ecological impacts, both within and beyond city boundaries. There is a lack of scalable, dynamic models of changes to ecosystems wrought by urban processes. We developed a system dynamics model, ESTIMUM, to predict locations, types, and magnitude of changes in ecosystem services. We tested the model in Lisbon (Portugal) under four specific urban development scenarios – a base case scenario and three local sustainability-driven scenarios – to the year 2050.</description>
+    </item>
+    
+    <item>
+      <title>Projections of Climate Change Impacts on Flowering-Veraison Water Deficits for Riesling and Müller-Thurgau in Germany</title>
+      <link>/publication/p20220321_remotesensing/</link>
+      <pubDate>Mon, 21 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>/publication/p20220321_remotesensing/</guid>
+      <description>Abstract     With global warming, grapevine is expected to be increasingly exposed to water deficits occurring at various development stages. In this study, we aimed to investigate the potential impacts of projected climate change on water deficits from the flowering to veraison period for two main white wine cultivars (Riesling and Müller-Thurgau) in Germany. A process-based soil-crop model adapted for grapevine was utilized to simulate the flowering-veraison crop water stress indicator (CWSI) of these two varieties between 1976–2005 (baseline) and 2041–2070 (future period) based on a suite of bias-adjusted regional climate model (RCM) simulations under RCP4.</description>
+    </item>
+    
     <item>
       <title>Implications of model uncertainty for investment decisions to manage intermittent sewer overflows</title>
       <link>/publication/p20210203_wr/</link>
