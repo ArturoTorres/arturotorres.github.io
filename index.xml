@@ -6,7 +6,7 @@
     <description>Recent content on Arturo Torres</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Feb 2023 12:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 09:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Calibration for an Ensemble of Grapevine Phenology Models under Different Optimization Algorithms</title>
       <link>/publication/p20230226_agronomy/</link>
@@ -89,6 +89,15 @@
     </item>
     
     <item>
+      <title>AI4Copernicus 2023</title>
+      <link>/talk/2023_ai_copernicus/</link>
+      <pubDate>Thu, 25 May 2023 09:00:00 +0000</pubDate>
+      
+      <guid>/talk/2023_ai_copernicus/</guid>
+      <description>Earth Observation &amp;amp; Artificial Intelligence solutions for climate change challenges   Earth Observation (EO) and Artificial Intelligence (AI) solutions are playing a crucial role in addressing the challenges posed by climate change. As the global climate crisis intensifies, there is an increasing need for accurate and timely information to understand, monitor, and mitigate the impacts of climate change on our planet. EO and AI technologies, when combined, offer powerful tools to gather, analyze, and interpret vast amounts of data, enabling us to make informed decisions and take effective actions.</description>
+    </item>
+    
+    <item>
       <title>Arturo&#39;s CV</title>
       <link>/cv/</link>
       <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
@@ -132,7 +141,7 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       
       <guid>/talk/2019_spa_stat/</guid>
       <description>Towards Spatial Data Science   Since 2011, Professor Alfred Stein and colleagues - in collaboration with Elsevier - have been organizing this series of Spatial Statistics conferences every 2 years. The 5th Spatial Statistics conference is held in Sitges, Spain. The conference focus: Towards Spatial Data Science. Covering a wide conference themes:
-  Space-time statistics, e.g. geostatistics, point patterns, estimation methods, large dimensions New spatial data sources, e.g. social media, Google, citizen science, crowd source maps Stochastic geometry, tesselation, point processes, random sets Causal statistical modeling Trajectory/movement modeling Predictive modelling Spatial data quality and uncertainty   Space-Time Stochastic Rainfall Fields for Uncertainty Propagation   On 12 July, I gave a talk on application of space-time stocastic rainfall fields and downscalingfor uncertainty propagation.</description>
+  Space-time statistics, e.g. geostatistics, point patterns, estimation methods, large dimensions New spatial data sources, e.g. social media, Google, citizen science, crowd source maps Stochastic geometry, tesselation, point processes, random sets Causal statistical modeling Trajectory/movement modeling Predictive modelling Spatial data quality and uncertainty   Space-Time Stochastic Rainfall Fields for Uncertainty Propagation   On 12 July, I gave a talk on application of space-time stocastic rainfall fields and downscaling for uncertainty propagation.</description>
     </item>
     
     <item>
