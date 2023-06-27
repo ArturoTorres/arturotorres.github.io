@@ -6,7 +6,16 @@
     <description>Recent content in Publications on Arturo Torres</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Feb 2023 12:00:00 +0000</lastBuildDate><atom:link href="/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Apr 2023 12:00:00 +0000</lastBuildDate><atom:link href="/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Urban landscape artificialization leads to increased flood hazards in the most vulnerable locations (Under review)</title>
+      <link>/publication/p20230426_scs_floods/</link>
+      <pubDate>Wed, 26 Apr 2023 12:00:00 +0000</pubDate>
+      
+      <guid>/publication/p20230426_scs_floods/</guid>
+      <description>Rainfall data assimilation for urban flood modelling     Rainfall data assimilation in flood modelling was used to improve the accuracy of rainfall inputs for flood prediction. It involves integrating observed rainfall data from various sources, such as weather stations, radar systems, or satellite measurements, into a hydrological model. By assimilating the observed rainfall data, the model can adjust and update its initial rainfall estimates, resulting in more reliable and precise flood predictions.</description>
+    </item>
+    
     <item>
       <title>Calibration for an Ensemble of Grapevine Phenology Models under Different Optimization Algorithms</title>
       <link>/publication/p20230226_agronomy/</link>

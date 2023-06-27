@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/publication/p20230426_scs_floods/</loc>
+    <lastmod>2023-04-26T12:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/p20230226_agronomy/</loc>
     <lastmod>2023-02-26T12:00:00+00:00</lastmod>
   </url><url>
@@ -29,13 +32,34 @@
     <loc>/publication/p2017_ewra/</loc>
     <lastmod>2017-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/2023_ai_copernicus/</loc>
-    <lastmod>2023-05-25T09:00:00+00:00</lastmod>
-  </url><url>
     <loc>/</loc>
-    <lastmod>2023-05-25T09:00:00+00:00</lastmod>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/sci_sci/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/arturo-site/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/technology/gis_open_source/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/technology/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/theme-features/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2023_ai_copernicus/</loc>
     <lastmod>2023-05-25T09:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/talks/</loc>
@@ -44,17 +68,11 @@
     <loc>/talk/</loc>
     <lastmod>2023-05-25T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/arturo-site/</loc>
-    <lastmod>2023-02-26T12:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/publications/</loc>
-    <lastmod>2023-02-26T12:00:00+00:00</lastmod>
+    <lastmod>2023-04-26T12:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/</loc>
-    <lastmod>2023-02-26T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-02-26T12:00:00+00:00</lastmod>
+    <lastmod>2023-04-26T12:00:00+00:00</lastmod>
   </url><url>
     <loc>/cv/</loc>
     <lastmod>2023-01-07T00:00:00+00:00</lastmod>
@@ -69,12 +87,6 @@
     <lastmod>2021-08-11T15:15:41-06:00</lastmod>
   </url><url>
     <loc>/project/list_chapel/</loc>
-    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/theme-features/</loc>
     <lastmod>2021-08-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/projects/</loc>
