@@ -6,7 +6,7 @@
     <description>Recent content in arturo-site on Arturo Torres</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/arturo-site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Apr 2023 12:00:00 +0000</lastBuildDate><atom:link href="/tags/arturo-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Urban landscape artificialization leads to increased flood hazards in the most vulnerable locations (Under review)</title>
       <link>/publication/p20230426_scs_floods/</link>
@@ -95,15 +95,6 @@
       
       <guid>/publication/p2017_ewra/</guid>
       <description>Abstract     Precipitation is the most active flux and major input of hydrological systems. Precipitation controls hydrological states (soil moisture and groundwater level), and fluxes (runoff, evapotranspiration and groundwater recharge). Hence, precipitation plays a paramount role in urban water systems. It controls the fluxes towards combined sewer tanks and the dilution of chemical and organic compounds in the wastewater. Furthermore, small catchments (i.e., areas of about 20 ha) have a fast response to precipitation.</description>
-    </item>
-    
-    <item>
-      <title>Open-source GIS</title>
-      <link>/technology/gis_open_source/</link>
-      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/technology/gis_open_source/</guid>
-      <description>QGIS, Quantum GIS      QGIS, or Quantum GIS, is an open-source Geographic Information System software that allows users to create, edit, visualize, and analyze geospatial data. It offers a wide range of tools for mapping, spatial analysis, and data management, making it a powerful and accessible solution for GIS tasks. With its user-friendly interface and extensive plugin support, QGIS provides a versatile platform for individuals and organizations to work with geographic information and gain valuable insights for various applications.</description>
     </item>
     
     <item>
