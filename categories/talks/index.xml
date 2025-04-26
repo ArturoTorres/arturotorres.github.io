@@ -4,46 +4,37 @@
     <title>Talks on Arturo Torres</title>
     <link>/categories/talks/</link>
     <description>Recent content in Talks on Arturo Torres</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 May 2023 09:00:00 +0000</lastBuildDate><atom:link href="/categories/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 09:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI4Copernicus 2023</title>
       <link>/talk/2023_ai_copernicus/</link>
       <pubDate>Thu, 25 May 2023 09:00:00 +0000</pubDate>
-      
       <guid>/talk/2023_ai_copernicus/</guid>
-      <description>Earth Observation &amp;amp; Artificial Intelligence solutions for climate change challenges   Earth Observation (EO) and Artificial Intelligence (AI) solutions are playing a crucial role in addressing the challenges posed by climate change. As the global climate crisis intensifies, there is an increasing need for accurate and timely information to understand, monitor, and mitigate the impacts of climate change on our planet. EO and AI technologies, when combined, offer powerful tools to gather, analyze, and interpret vast amounts of data, enabling us to make informed decisions and take effective actions.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;copernicus75.png&#34; alt=&#34;ai4copernicus2023&#34;&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h4 id=&#34;earth-observation--artificial-intelligence-solutions-for-climate-change-challenges&#34;&gt;Earth Observation &amp;amp; Artificial Intelligence solutions for climate change challenges&#xA;  &lt;a href=&#34;#earth-observation--artificial-intelligence-solutions-for-climate-change-challenges&#34;&gt;&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;Earth Observation (EO) and Artificial Intelligence (AI) solutions are playing a crucial role in addressing the challenges posed by climate change. As the global climate crisis intensifies, there is an increasing need for accurate and timely information to understand, monitor, and mitigate the impacts of climate change on our planet. EO and AI technologies, when combined, offer powerful tools to gather, analyze, and interpret vast amounts of data, enabling us to make informed decisions and take effective actions.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Geostatistical simulation of space-time stochastic rainfall fields for uncertainty propagation in rainfall-runoff and urban drainage system modelling</title>
       <link>/talk/2019_spa_stat/</link>
       <pubDate>Fri, 12 Jul 2019 11:00:00 +0000</pubDate>
-      
       <guid>/talk/2019_spa_stat/</guid>
-      <description>Towards Spatial Data Science   Since 2011, Professor Alfred Stein and colleagues - in collaboration with Elsevier - have been organizing this series of Spatial Statistics conferences every 2 years. The 5th Spatial Statistics conference is held in Sitges, Spain. The conference focus: Towards Spatial Data Science. Covering a wide conference themes:
-  Space-time statistics, e.g. geostatistics, point patterns, estimation methods, large dimensions New spatial data sources, e.g. social media, Google, citizen science, crowd source maps Stochastic geometry, tesselation, point processes, random sets Causal statistical modeling Trajectory/movement modeling Predictive modelling Spatial data quality and uncertainty   Space-Time Stochastic Rainfall Fields for Uncertainty Propagation   On 12 July, I gave a talk on application of space-time stocastic rainfall fields and downscaling for uncertainty propagation.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;spatial-statistics-2019-1000x130.gif&#34; alt=&#34;spa-stat2019&#34;&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h4 id=&#34;towards-spatial-data-science&#34;&gt;Towards Spatial Data Science&#xA;  &lt;a href=&#34;#towards-spatial-data-science&#34;&gt;&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;Since 2011, Professor Alfred Stein and colleagues - in collaboration with Elsevier - have been organizing this series of Spatial Statistics conferences every 2 years. The 5th Spatial Statistics conference is held in Sitges, Spain. The conference focus: Towards Spatial Data Science. Covering a wide conference themes:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Space-time statistics, e.g. geostatistics, point patterns, estimation methods, large dimensions&lt;/li&gt;&#xA;&lt;li&gt;New spatial data sources, e.g. social media, Google, citizen science, crowd source maps&lt;/li&gt;&#xA;&lt;li&gt;Stochastic geometry, tesselation, point processes, random sets&lt;/li&gt;&#xA;&lt;li&gt;Causal statistical modeling&lt;/li&gt;&#xA;&lt;li&gt;Trajectory/movement modeling&lt;/li&gt;&#xA;&lt;li&gt;Predictive modelling&lt;/li&gt;&#xA;&lt;li&gt;Spatial data quality and uncertainty&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h4 id=&#34;space-time-stochastic-rainfall-fields-for-uncertainty-propagation&#34;&gt;Space-Time Stochastic Rainfall Fields for Uncertainty Propagation&#xA;  &lt;a href=&#34;#space-time-stochastic-rainfall-fields-for-uncertainty-propagation&#34;&gt;&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;On 12 July, I gave a talk on application of space-time stocastic rainfall fields and downscaling for uncertainty propagation.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Merging and calibration of radar rain products for quantification of input uncertainty in urban drainage modelling for the Haute-Sûre catchment in Luxembourg</title>
       <link>/talk/2017_enviroinfo/</link>
       <pubDate>Fri, 15 Sep 2017 14:00:00 +0000</pubDate>
-      
       <guid>/talk/2017_enviroinfo/</guid>
-      <description>From Science to Society: The Bridge Provided by Environmental Informatics   The 31st International Conference on Environmental Informatics, EnviroInfo, is held in Luxembourg, hosted by the Luxembourg Institute of Science and Technology (LIST). The conference focus: From Science to Society. The themes:
-  Applications of Geographical Information Systems and Disaster Management. Environmental Modelling and Simulation. Energy Informatics and Environmental Informatics. Software Tools and Environmental Databases. Energy Aware Software-Engineering and Development.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;featured1.png&#34; alt=&#34;enviroinfo-2017&#34;&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h4 id=&#34;from-science-to-society-the-bridge-provided-by-environmental-informatics&#34;&gt;From Science to Society: The Bridge Provided by Environmental Informatics&#xA;  &lt;a href=&#34;#from-science-to-society-the-bridge-provided-by-environmental-informatics&#34;&gt;&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;The 31st International Conference on Environmental Informatics, EnviroInfo, is held in Luxembourg, hosted by the Luxembourg Institute of Science and Technology (LIST). The conference focus: From Science to Society. The themes:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Applications of Geographical Information Systems and Disaster Management.&lt;/li&gt;&#xA;&lt;li&gt;Environmental Modelling and Simulation.&lt;/li&gt;&#xA;&lt;li&gt;Energy Informatics and Environmental Informatics.&lt;/li&gt;&#xA;&lt;li&gt;Software Tools and Environmental Databases.&lt;/li&gt;&#xA;&lt;li&gt;Energy Aware Software-Engineering and Development.&lt;/li&gt;&#xA;&lt;li&gt;Sustainable Mobility.&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h4 id=&#34;a-proposed-workflow-for-rainfall-ensemble-in-uncertainty-propagation&#34;&gt;A proposed workflow for rainfall ensemble in uncertainty propagation&#xA;  &lt;a href=&#34;#a-proposed-workflow-for-rainfall-ensemble-in-uncertainty-propagation&#34;&gt;&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;In this talk, I present how the proposed workflow represents a more realistic simulated time series of rainfall originating run-off that enters the sewer system, and therefore we can do the Monte Carlo input uncertainty propagation and compare with results obtained in previous studies we did. In the future, we expect that validation will show a better job done not only in terms of mean error and root mean squared error of tank volume and overflow, but also in quantifying the uncertainty in the sewer system model outputs.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Towards an uncertainty propagation framework in urban drainage system modelling</title>
       <link>/talk/2015_udm/</link>
       <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
-      
       <guid>/talk/2015_udm/</guid>
-      <description>Most urban drainage models do not pay attention to uncertainty propagation. In particular, commercial software packages as used in engineering practice typically ignore uncertainties due to lack of user-friendly software implementations and tools. However, uncertainties can be substantial and ignoring these may affect decision making. In particular, end users should be aware of uncertainties so that they can take more robust decisions. Thus, research into uncertainty propagation in urban drainage modelling and development of operational systems that can trace the propagation of uncertainties is needed.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;featured1.png&#34; alt=&#34;udm2015&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Most urban drainage models do not pay attention to uncertainty propagation. In particular, commercial software packages as used in engineering practice typically ignore uncertainties due to lack of user-friendly software implementations and tools. However, uncertainties can be substantial and ignoring these may affect decision making. In particular, end users should be aware of uncertainties so that they can take more robust decisions. Thus, research into uncertainty propagation in urban drainage modelling and development of operational systems that can trace the propagation of uncertainties is needed. We have made a contribution to this effort by proposing an uncertainty propagation framework for urban drainage modelling and applying first use case with the EmiStatR model.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -4,17 +4,16 @@
     <title>CV on Arturo Torres</title>
     <link>/categories/cv/</link>
     <description>Recent content in CV on Arturo Torres</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/cv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/cv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arturo&#39;s CV</title>
       <link>/cv/</link>
       <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>/cv/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

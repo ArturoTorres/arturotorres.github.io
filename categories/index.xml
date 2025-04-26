@@ -4,62 +4,51 @@
     <title>Categories on Arturo Torres</title>
     <link>/categories/</link>
     <description>Recent content in Categories on Arturo Torres</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 May 2023 09:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 09:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Talks</title>
       <link>/categories/talks/</link>
       <pubDate>Thu, 25 May 2023 09:00:00 +0000</pubDate>
-      
       <guid>/categories/talks/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CV</title>
       <link>/categories/cv/</link>
       <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>/categories/cv/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Theme Features</title>
       <link>/categories/theme-features/</link>
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>/categories/theme-features/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Projects</title>
       <link>/categories/projects/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/categories/projects/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>R</title>
       <link>/categories/r/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/categories/r/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>package</title>
+      <title>Package</title>
       <link>/categories/package/</link>
       <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>/categories/package/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -4,27 +4,23 @@
     <title>R on Arturo Torres</title>
     <link>/categories/r/</link>
     <description>Recent content in R on Arturo Torres</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EOTSA</title>
       <link>/project/list_eotsa/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/project/list_eotsa/</guid>
-      <description>Remote Sensing and Earth Observation     With the co-development of 52° North (Germany), the Luxembourg Institute of Science and Technology (LIST) developed the toolbox for the European Space Agency (ESA) according to the needs of the NDVI time series analysis community.
-The focus of this project was the implementation of a time series analysis toolbox for remote sensing imagery, specifically for Proba-V data, in R. The mission exploitation platform (MEP) at VITO (Flemish Institute for Technological Research NV, Belgium) derives the data from their Proba-V satellite.</description>
+      <description>&lt;h3 id=&#34;remote-sensing-and-earth-observation&#34;&gt;Remote Sensing and Earth Observation&#xA;  &lt;a href=&#34;#remote-sensing-and-earth-observation&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;With the co-development of 52° North (Germany), the Luxembourg Institute of Science and Technology (LIST) developed the toolbox for the European Space Agency (ESA) according to the needs of the NDVI time series analysis community.&lt;/p&gt;&#xA;&lt;p&gt;The focus of this project was the implementation of a time series analysis toolbox for remote sensing imagery, specifically for &lt;a href=&#34;https://earth.esa.int/eogateway/missions/proba-v&#34; target=&#34;_blank&#34;&gt;Proba-V data&lt;/a&gt;, in R. The mission exploitation platform (MEP) at VITO (Flemish Institute for Technological Research NV, Belgium) derives the data from their Proba-V satellite. &lt;a href=&#34;https://52north.org/references/eotsa-toolbox/&#34; target=&#34;_blank&#34;&gt;Read More&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>QUICS</title>
       <link>/project/quics/</link>
       <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>/project/quics/</guid>
-      <description>QUICS was an EU funded FP7 Marie Curie Initial Training Network (ITN) which ran for 4 years, starting in 2014.      The Ph.D. journey started     Since January 2015 I began my Ph.D. research and made part of the QUICS project. The overall aim of QUICS was to provide high-level training and to research the further implementation of the Water Framework Directive (WFD), improving water quality management by assessing the uncertainty of integrated catchment model water quality predictions.</description>
+      <description>&lt;h3 id=&#34;quics-was-an-eu-funded-fp7-marie-curie-initial-training-network-itn-which-ran-for-4-years-starting-in-2014&#34;&gt;QUICS was an EU funded FP7 Marie Curie Initial Training Network (ITN) which ran for 4 years, starting in 2014.&#xA;  &lt;a href=&#34;#quics-was-an-eu-funded-fp7-marie-curie-initial-training-network-itn-which-ran-for-4-years-starting-in-2014&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;!--- *— [Chris House, A Complete Guide to CSS Grid --&gt;&#xA;&lt;!--- Layout](http://chris.house/blog/a-complete-guide-css-grid-layout/)* [^1] --&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h3 id=&#34;the-phd-journey-started&#34;&gt;The Ph.D. journey started&#xA;  &lt;a href=&#34;#the-phd-journey-started&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Since January 2015 I began my Ph.D. research and made part of the QUICS project.&#xA;The overall aim of QUICS was to provide high-level training and to research the&#xA;further implementation of the Water Framework Directive (WFD), improving water&#xA;quality management by assessing the uncertainty of integrated catchment model water&#xA;quality predictions.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
