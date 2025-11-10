@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Arturo Torres</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Portfolio on Arturo Torres</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Climate Projections</title>
+      <link>/portfolio/Climate_Projections/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/Climate_Projections/</guid>
+      <description>Luxembourg tas (Euro-CORDEX RCP2.6 vs RCP8.5)   Each plot shows how Luxembourg’s daily mean air temperature (tas) evolves through July for both the low-emissions (RCP2.6) and high-emissions (RCP8.5) scenarios. A Crameri-inspired blue→orange palette highlights cooler versus warmer days, while dual cumulative lines reveal how quickly each storyline stacks heat. Explore the synoptic maps first, then step through the time slices in chronological order to see how divergence accelerates through mid- and late-century climates.</description>
+    </item>
+    
+  </channel>
+</rss>

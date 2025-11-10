@@ -1,0 +1,9 @@
+Title: July 2050 Luxembourg daily tas — RCP2.6 vs RCP8.5
+
+Narrative:
+This animation shows how daily mean air temperature evolves over Luxembourg during July 2050 for the low-emissions (RCP2.6) and high-emissions (RCP8.5) scenarios. The blue-to-orange gradient highlights cooler versus warmer days.
+
+Procedure:
+1. Load Euro-CORDEX tas fields, convert to °C, and aggregate Luxembourg-wide daily means for the chosen month.
+2. Apply the shared blue→orange palette (Crameri-inspired) to encode magnitude consistently across both scenarios.
+3. Animate the cumulative line so each frame adds a day, while a marker traces the current value; export as GIF for the blog.

@@ -83,7 +83,7 @@
   <script src="/panelset.min.ed1ac24b6e16f4e2481e3d1d098ae66f5bc77438aef619e6e266d8ac5b00dc72.js" type="text/javascript"></script>
   
   
-  <script src="/main.min.372fda2e3b9069d63ceb5cd133f739616d6ee375686be9fa948f00e508e05814.js" type="text/javascript"></script>
+  <script src="/main.min.d368a7d8a8a7eaa6a17008048bbe07d0fe8f49752af8e24e5abbf9c1fe1c73dc.js" type="text/javascript"></script>
 </head>
 </head>
 
@@ -106,7 +106,12 @@
       
       
       
-      <a class="link f6 f5-l dib pv1 ph2 " href="/project/" title="Project Portfolio">Projects</a>
+      <a class="link f6 f5-l dib pv1 ph2 " href="/portfolio/" title="Portfolio">Portfolio</a>
+      
+      
+      
+      
+      <a class="link f6 f5-l dib pv1 ph2 " href="/project/" title="Projects">Projects</a>
       
       
       
@@ -143,6 +148,76 @@
       </script>
 
 </header>
+
+<div id="cookie-banner" class="cookie-banner dn">
+  <p class="ma0 pr3">
+    This site uses cookies to analyze traffic and remember your preferences. By continuing to browse, you agree to this use.
+    See the <a href="/privacy/" class="underline white">privacy policy</a> for details.
+  </p>
+  <button id="cookie-accept" class="cookie-action">
+    Accept
+  </button>
+</div>
+
+<style>
+.cookie-banner {
+  position: fixed;
+  bottom: 1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(90%, 720px);
+  background: rgba(10, 16, 42, 0.95);
+  color: #fff;
+  border-radius: 999px;
+  padding: 0.9rem 1.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  z-index: 9999;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.35);
+  font-size: 0.9rem;
+}
+.cookie-banner a {
+  color: #a7d7ff;
+}
+.cookie-action {
+  background: #1cb0f6;
+  color: #0b1f3a;
+  border: none;
+  border-radius: 999px;
+  padding: 0.45rem 1.25rem;
+  cursor: pointer;
+  font-weight: 600;
+}
+.cookie-action:hover {
+  background: #36c7ff;
+}
+@media (max-width: 640px) {
+  .cookie-banner {
+    flex-direction: column;
+    border-radius: 1rem;
+    text-align: center;
+  }
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var banner = document.getElementById('cookie-banner');
+  var action = document.getElementById('cookie-accept');
+  if (!banner || !action) return;
+  if (localStorage.getItem('cookieConsent') === 'accepted') {
+    banner.parentNode.removeChild(banner);
+    return;
+  }
+  banner.classList.remove('dn');
+  action.addEventListener('click', function() {
+    localStorage.setItem('cookieConsent', 'accepted');
+    banner.parentNode.removeChild(banner);
+  });
+});
+</script>
 
 <main class="page-main pa4" role="main">
   <section class="blog-intro mw7 center mb5">
