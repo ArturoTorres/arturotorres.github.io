@@ -1,5 +1,0 @@
-Flood risk maps for Lisbon for 2-, 50-, and 100-year return periods in 2018 and 2050 show the changes to flood risk as a consequence of artificialization in the urban land cover.
-
-Source: 
-Thomas Elliot, J.A. Torres-Matallana, Julia Teebken. Urbanization under extreme climate events leads to synchronized decreases in flood protection and increases in vulnerability, Cities,
-Volume 160, 2025, 105827, ISSN 0264-2751, https://doi.org/10.1016/j.cities.2025.105827.
