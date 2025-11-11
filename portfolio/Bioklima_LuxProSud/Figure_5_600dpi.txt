@@ -1,4 +1,0 @@
-Results of the FITNAH-3D Model for the Luxembourg Pro-Sud region for current climate conditions(Status Quo). Air temperature at 4 a.m. Areas where future building activities are foreseen are shown in green. Black lines indicate the borders of the individual communes (administrative units).
-
-Source: 
-Junk, J., Lett, C., Trebs, I., Hipler, E., Torres-Matallana, J. A., Lichti, R., & Matzarakis, A. (2025). Quantifying the Effects of Climate Change on the Urban Heat Island Intensity in Luxembourg—Sustainable Adaptation and Mitigation Strategies Through Urban Design. Atmosphere, 16(4), 462. https://doi.org/10.3390/atmos16040462
